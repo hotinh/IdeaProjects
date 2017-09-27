@@ -1,0 +1,5 @@
+.idea/
+*.iml
+*/target/
+myscala/out/
+mysbt/project/
